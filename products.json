@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Stormtrooper",
+        "type": "T-shirt",
+        "price": "250",
+        "id": "1234567"
+    },{
+        "name": "Darth Vader",
+        "type": "Hoodie",
+        "price": "750",
+        "id": "1234568"
+    },{
+        "name": "Baby Yoda",
+        "type": "Sweater",
+        "price": "500",
+        "id": "1234569"
+    },{
+        "name": "Mandalorian",
+        "type": "T-shirt",
+        "price": "250",
+        "id": "1234570"
+    }
+]
